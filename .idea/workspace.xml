@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0306a01a-286e-4c03-948e-e5acc269d6b0" name="Changes" comment="idea file add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/main/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0306a01a-286e-4c03-948e-e5acc269d6b0" name="Changes" comment="make parser for example.com" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669825767161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new dep">
+      <created>1669827075081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669827075081</updated>
+    </task>
+    <task id="LOCAL-00005" summary="make parser for example.com">
+      <created>1669827217672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669827217672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +141,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="first experience" />
     <MESSAGE value="idea file add" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea file add" />
+    <MESSAGE value="new dep" />
+    <MESSAGE value="make parser for example.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="make parser for example.com" />
   </component>
 </project>
